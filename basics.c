@@ -11,6 +11,6 @@ int main()
     printf("value that is located in the memory address of pa = %d\n",*pa);
 
     /* here pa (pointer of a) is indicating the value which is assigned in the address of a means pa-->&a 
-       pointer*/
+       pointer */
 
 }
