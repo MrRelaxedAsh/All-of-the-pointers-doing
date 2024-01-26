@@ -15,10 +15,10 @@ int main()
     for (int i = 0; i < n; i++)
     {
         scanf("%d",&a[i]);
-        scanf("%d",&b[i]);
-
-        
-        
+    }
+    for (int i = 0; i < n; i++)
+    {
+        scanf("%d",&b[i]); 
     }
     for (int i = 0; i < n; i++)
     {
